@@ -1,0 +1,2 @@
+# MAGIC
+everthing/nothing
